@@ -1,3 +1,5 @@
+https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html
+
 1. npm init -y
 2. npm install typescript ts-node @types/node --save-dev
 3. npx tsc --init
