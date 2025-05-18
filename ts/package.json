@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node src/text/History.ts"
+    "start": "ts-node src/images/titan/generate.ts"
   },
   "keywords": [],
   "author": "",

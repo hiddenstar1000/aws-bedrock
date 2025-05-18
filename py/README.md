@@ -35,5 +35,9 @@ pip install -r requirements.txt
 # 4. Run
 
 ```
-AWS_PROFILE=dixon python3 src/intro/starter.py
+AWS_PROFILE=dixon python3 src/images/titan/generate.py
+```
+
+```
+source deactivate
 ```
